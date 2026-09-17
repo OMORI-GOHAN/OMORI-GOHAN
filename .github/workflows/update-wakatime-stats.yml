@@ -1,22 +1,23 @@
-name: Update WakaTime Stats
+name: Waka Readme
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "15 */12 * * *"
   workflow_dispatch:
-
-permissions:
-  contents: write
 
 jobs:
   update-readme:
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
 
     steps:
-      - name: Update WakaTime Stats
-        uses: AptS-1547/wakatime-readme-updater@v1
+      - uses: anmol098/waka-readme-stats@master
         with:
-          wakatime_api_key: ${{ secrets.WAKATIME_API_KEY }}
-          gh_token: ${{ secrets.GITHUB_TOKEN }}
-          repository: ${{ github.repository }}
-          stats_range: "7"
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+          SHOW_PROJECTS: "False"
+          SHOW_OS: "False"
+          SHOW_EDITORS: "True"
+          SHOW_TIMEZONE: "True"
+          SHOW_LANGUAGE: "True"
