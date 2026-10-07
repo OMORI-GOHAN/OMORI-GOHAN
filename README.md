@@ -54,22 +54,22 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      1 hr 33 mins        ██████████████████░░░░░░░   71.67 % 
-Markdown                 31 mins             ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-Rust                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Markdown                 31 mins             ████████████░░░░░░░░░░░░░   46.36 % 
+C++                      30 mins             ███████████░░░░░░░░░░░░░░   45.28 % 
+Rust                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+TOML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 10 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 mins (25.69%)
+⏱ AI Coding Time: 33 mins (49.61%)
 
-✍️ 0 lines written by AI, 128 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 42 lines written by hand (0.0% AI-written)
 
 🔤 10,240 Input Tokens, 7,328 Output Tokens
 
@@ -100,5 +100,5 @@ Astro                    1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OMORI-GOHAN/OMORI-GOHAN/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 18:22:34 UTC
+ Last Updated on 07/10/2026 06:00:02 UTC
 <!--END_SECTION:waka-->
