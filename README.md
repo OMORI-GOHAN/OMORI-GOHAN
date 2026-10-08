@@ -27,6 +27,45 @@ Computer Science Student @ HNU
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                6 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+🌆 Daytime                17 commits          ████████████░░░░░░░░░░░░░   48.57 % 
+🌃 Evening                12 commits          █████████░░░░░░░░░░░░░░░░   34.29 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Tuesday                  16 commits          ███████████░░░░░░░░░░░░░░   45.71 % 
+Wednesday                4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Thursday                 11 commits          ████████░░░░░░░░░░░░░░░░░   31.43 % 
+Friday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Saturday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Rust** 
 
 ```text
@@ -41,5 +80,5 @@ Astro                    1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OMORI-GOHAN/OMORI-GOHAN/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 06:04:38 UTC
+ Last Updated on 08/10/2026 18:51:11 UTC
 <!--END_SECTION:waka-->
