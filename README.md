@@ -9,9 +9,9 @@ Computer Science Student @ HNU
 ## ⌨️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -54,16 +54,37 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     4 hrs               ███████████████░░░░░░░░░░   59.58 % 
+Other                    1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+TOML                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Rust                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             5 hrs 51 mins       ██████████████████████░░░   86.96 % 
+VS Code                  52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 6 hrs 42 mins (99.61%)
+
+✍️ 41 lines written by AI, 1 lines written by hand (97.62% AI-written)
+
+🔤 445,745 Input Tokens, 34,099 Output Tokens
+
+💵 $2.91 Estimated AI Cost This Week
+
+🧠 22 AI Sessions, 74 AI Prompts
+
+GPT                      58 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.62% of written lines came from AI
+📚 Verbose Prompter — average 2,999 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 3.33% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -80,5 +101,5 @@ Astro                    1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OMORI-GOHAN/OMORI-GOHAN/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 18:51:11 UTC
+ Last Updated on 09/10/2026 06:09:21 UTC
 <!--END_SECTION:waka-->
