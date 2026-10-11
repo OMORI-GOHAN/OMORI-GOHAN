@@ -9,9 +9,9 @@ Computer Science Student @ HNU
 ## ⌨️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -54,37 +54,39 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     4 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   34.79 % 
-Markdown                 3 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   31.74 % 
-Other                    1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-C++                      58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-TOML                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+YAML                     4 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+Markdown                 3 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
+CSS                      2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Rust                     2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Other                    1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
 
 🔥 Editors: 
-Codex Vscode             6 hrs 35 mins       ██████████████░░░░░░░░░░░   56.13 % 
-VS Code                  5 hrs 9 mins        ███████████░░░░░░░░░░░░░░   43.87 % 
+Codex Vscode             9 hrs 31 mins       ██████████████░░░░░░░░░░░   57.11 % 
+VS Code                  6 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   41.15 % 
+Claude Code              17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 35 mins (64.68%)
+⏱ AI Coding Time: 10 hrs 56 mins (65.64%)
 
-✍️ 68 lines written by AI, 122 lines written by hand (35.79% AI-written)
+✍️ 384 lines written by AI, 257 lines written by hand (59.91% AI-written)
 
-🔤 558,169 Input Tokens, 47,144 Output Tokens
+🔤 806,286 Input Tokens, 81,069 Output Tokens
 
-💵 $3.54 Estimated AI Cost This Week
+💵 $6.67 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 99 AI Prompts
+🧠 28 AI Sessions, 133 AI Prompts
 
-GPT                      85 lines            █████████████████████████   100.00 % 
+GPT                      418 lines           █████████████████████████   100.00 % 
+DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 35.79% of written lines came from AI
-📚 Verbose Prompter — average 2,260 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 73.35% of changed lines were hand-edited
+⚖️ Balanced with AI — 59.91% of written lines came from AI
+📚 Verbose Prompter — average 1,688 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 50.71% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -102,5 +104,5 @@ Astro                    1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OMORI-GOHAN/OMORI-GOHAN/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2026 17:21:06 UTC
+ Last Updated on 11/10/2026 05:47:17 UTC
 <!--END_SECTION:waka-->
