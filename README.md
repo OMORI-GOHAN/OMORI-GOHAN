@@ -54,37 +54,36 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      14 hrs 15 mins      █████████████████████░░░░   83.90 % 
-JavaScript               1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-Python                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-CSS                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+C++                      12 hrs 17 mins      ██████████████████████░░░   88.07 % 
+JavaScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Python                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 37 mins      ███████████████████████░░   91.92 % 
-Codex Vscode             1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+VS Code                  13 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 39 mins (27.37%)
+⏱ AI Coding Time: 3 hrs 7 mins (22.44%)
 
-✍️ 892 lines written by AI, 723 lines written by hand (55.23% AI-written)
+✍️ 695 lines written by AI, 593 lines written by hand (53.96% AI-written)
 
-🔤 2,246,120 Input Tokens, 69,549 Output Tokens
+🔤 1,730,895 Input Tokens, 58,206 Output Tokens
 
-💵 $8.65 Estimated AI Cost This Week
+💵 $6.57 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 16 AI Prompts
+🧠 6 AI Sessions, 10 AI Prompts
 
-GPT                      892 lines           █████████████████████████   100.00 % 
+GPT                      695 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 55.23% of written lines came from AI
-📝 Concise Prompter — average 89 characters per prompt
+⚖️ Balanced with AI — 53.96% of written lines came from AI
+📝 Concise Prompter — average 56 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 60.55% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 63.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -102,5 +101,5 @@ Astro                    1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OMORI-GOHAN/OMORI-GOHAN/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 17:12:53 UTC
+ Last Updated on 22/10/2026 04:46:15 UTC
 <!--END_SECTION:waka-->
