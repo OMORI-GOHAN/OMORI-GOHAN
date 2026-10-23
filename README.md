@@ -54,22 +54,22 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      12 hrs 17 mins      ██████████████████████░░░   88.07 % 
-JavaScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-Python                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+C++                      11 hrs 5 mins       ██████████████████████░░░   86.95 % 
+JavaScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Python                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 57 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 7 mins (22.44%)
+⏱ AI Coding Time: 3 hrs 7 mins (24.55%)
 
-✍️ 695 lines written by AI, 593 lines written by hand (53.96% AI-written)
+✍️ 695 lines written by AI, 517 lines written by hand (57.34% AI-written)
 
 🔤 1,730,895 Input Tokens, 58,206 Output Tokens
 
@@ -80,10 +80,10 @@ VS Code                  13 hrs 57 mins      ███████████�
 GPT                      695 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 53.96% of written lines came from AI
+⚖️ Balanced with AI — 57.34% of written lines came from AI
 📝 Concise Prompter — average 56 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 63.09% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 60.13% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -101,5 +101,5 @@ Astro                    1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OMORI-GOHAN/OMORI-GOHAN/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2026 17:11:00 UTC
+ Last Updated on 23/10/2026 04:49:52 UTC
 <!--END_SECTION:waka-->
