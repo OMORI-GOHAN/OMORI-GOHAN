@@ -54,34 +54,34 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      9 hrs 52 mins       █████████████████████░░░░   85.58 % 
-JavaScript               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Python                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+C++                      9 hrs 52 mins       ██████████████████████░░░   87.50 % 
+Python                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 32 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 7 mins (27.14%)
+⏱ AI Coding Time: 2 hrs 52 mins (25.5%)
 
 ✍️ 695 lines written by AI, 337 lines written by hand (67.34% AI-written)
 
-🔤 1,730,895 Input Tokens, 58,206 Output Tokens
+🔤 1,195,510 Input Tokens, 57,798 Output Tokens
 
-💵 $6.57 Estimated AI Cost This Week
+💵 $5.46 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 10 AI Prompts
+🧠 4 AI Sessions, 9 AI Prompts
 
 GPT                      695 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 67.34% of written lines came from AI
-📝 Concise Prompter — average 56 characters per prompt
+📝 Concise Prompter — average 61 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 47.31% of changed lines were hand-edited
 ```
@@ -101,5 +101,5 @@ Astro                    1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OMORI-GOHAN/OMORI-GOHAN/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 04:41:40 UTC
+ Last Updated on 25/10/2026 16:19:49 UTC
 <!--END_SECTION:waka-->
