@@ -9,11 +9,11 @@ Computer Science Student @ HNU
 ## ⌨️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-66%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-70%20hrs%2042%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -54,36 +54,36 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      10 hrs 11 mins      ███████████░░░░░░░░░░░░░░   42.87 % 
-Markdown                 7 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   30.35 % 
-Other                    2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Git Config               2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Python                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+C++                      11 hrs 45 mins      ██████████░░░░░░░░░░░░░░░   39.26 % 
+Markdown                 9 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   31.37 % 
+Other                    3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Git Config               2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+YAML                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 
 🔥 Editors: 
-Cursor                   23 hrs 46 mins      █████████████████████████   100.00 % 
+Cursor                   29 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 12 mins (55.54%)
+⏱ AI Coding Time: 17 hrs 33 mins (58.65%)
 
-✍️ 666 lines written by AI, 298 lines written by hand (69.09% AI-written)
+✍️ 865 lines written by AI, 380 lines written by hand (69.48% AI-written)
 
-🔤 2,422,938 Input Tokens, 189,098 Output Tokens
+🔤 2,537,690 Input Tokens, 209,852 Output Tokens
 
-💵 $15.24 Estimated AI Cost This Week
+💵 $16.67 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 105 AI Prompts
+🧠 13 AI Sessions, 118 AI Prompts
 
-GPT                      711 lines           █████████████████████████   100.00 % 
+GPT                      910 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 69.09% of written lines came from AI
-📝 Concise Prompter — average 149 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 44.76% of changed lines were hand-edited
+🤖 AI-Driven — 69.48% of written lines came from AI
+📝 Concise Prompter — average 150 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 43.2% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 
@@ -102,5 +102,5 @@ Astro                    1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OMORI-GOHAN/OMORI-GOHAN/main/assets/bar_graph.png)
 
 
- Last Updated on 05/11/2026 19:57:17 UTC
+ Last Updated on 06/11/2026 06:46:00 UTC
 <!--END_SECTION:waka-->
