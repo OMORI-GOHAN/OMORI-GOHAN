@@ -27,65 +27,6 @@ Computer Science Student @ HNU
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                20 commits          ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-🌆 Daytime                39 commits          ███████████░░░░░░░░░░░░░░   44.32 % 
-🌃 Evening                29 commits          ████████░░░░░░░░░░░░░░░░░   32.95 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Tuesday                  24 commits          ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-Wednesday                30 commits          █████████░░░░░░░░░░░░░░░░   34.09 % 
-Thursday                 15 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Friday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Saturday                 8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Sunday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-C++                      12 hrs 43 mins      ███████████░░░░░░░░░░░░░░   45.36 % 
-Markdown                 7 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-Other                    3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Git Config               2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-YAML                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-
-🔥 Editors: 
-Cursor                   28 hrs 2 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 15 hrs 9 mins (54.06%)
-
-✍️ 840 lines written by AI, 500 lines written by hand (62.69% AI-written)
-
-🔤 1,903,922 Input Tokens, 184,916 Output Tokens
-
-💵 $13.67 Estimated AI Cost This Week
-
-🧠 11 AI Sessions, 101 AI Prompts
-
-GPT                      860 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 62.69% of written lines came from AI
-📝 Concise Prompter — average 152 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🔍 Hands-On Reviewer — 52.06% of changed lines were hand-edited
-```
-
 **I Mostly Code in Rust** 
 
 ```text
@@ -102,5 +43,5 @@ Astro                    1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OMORI-GOHAN/OMORI-GOHAN/main/assets/bar_graph.png)
 
 
- Last Updated on 08/11/2026 17:55:58 UTC
+ Last Updated on 09/11/2026 06:28:48 UTC
 <!--END_SECTION:waka-->
