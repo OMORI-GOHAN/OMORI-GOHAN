@@ -9,9 +9,9 @@ Computer Science Student @ HNU
 ## ⌨️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-71%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-71%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
@@ -54,32 +54,33 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      15 hrs 38 mins      █████████████████████░░░░   83.53 % 
-Rust                     2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+C++                      10 hrs 15 mins      ███████████████████░░░░░░   76.19 % 
+Rust                     2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+Other                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Cursor                   18 hrs 44 mins      █████████████████████████   100.00 % 
+Cursor                   13 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 40 mins (3.58%)
+⏱ AI Coding Time: 47 mins (5.88%)
 
-✍️ 0 lines written by AI, 634 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 436 lines written by hand (0.0% AI-written)
 
-🔤 232,998 Input Tokens, 5,692 Output Tokens
+🔤 421,736 Input Tokens, 8,072 Output Tokens
 
-💵 $0.86 Estimated AI Cost This Week
+💵 $1.34 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 6 AI Prompts
+🧠 5 AI Sessions, 8 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 33 characters per prompt
+📝 Concise Prompter — average 36 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -100,5 +101,5 @@ Astro                    1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OMORI-GOHAN/OMORI-GOHAN/main/assets/bar_graph.png)
 
 
- Last Updated on 18/11/2026 20:31:32 UTC
+ Last Updated on 19/11/2026 07:26:01 UTC
 <!--END_SECTION:waka-->
