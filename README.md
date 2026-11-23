@@ -19,32 +19,32 @@ Computer Science Student @ HNU
 
 > 📦 4.1 kB Used in GitHub's Storage 
  > 
-> 🏆 80 Contributions in the Year 2026
+> 🏆 82 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 8 Public Repositories 
+> 📜 9 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                20 commits          ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-🌆 Daytime                39 commits          ███████████░░░░░░░░░░░░░░   44.32 % 
-🌃 Evening                29 commits          ████████░░░░░░░░░░░░░░░░░   32.95 % 
+🌞 Morning                21 commits          ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
+🌆 Daytime                39 commits          ███████████░░░░░░░░░░░░░░   43.82 % 
+🌃 Evening                29 commits          ████████░░░░░░░░░░░░░░░░░   32.58 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Tuesday                  24 commits          ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-Wednesday                30 commits          █████████░░░░░░░░░░░░░░░░   34.09 % 
-Thursday                 15 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Friday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Saturday                 8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Sunday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Monday                   9 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Tuesday                  24 commits          ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+Wednesday                30 commits          ████████░░░░░░░░░░░░░░░░░   33.71 % 
+Thursday                 15 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Friday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Saturday                 8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+Sunday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 ```
 
 
@@ -89,10 +89,10 @@ GPT                      0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     3 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-Python                   1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-CSS                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Astro                    1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Rust                     4 repos             ██████████████░░░░░░░░░░░   57.14 % 
+Python                   1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+CSS                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Astro                    1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 ```
 
 
@@ -102,5 +102,5 @@ Astro                    1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OMORI-GOHAN/OMORI-GOHAN/main/assets/bar_graph.png)
 
 
- Last Updated on 22/11/2026 19:40:16 UTC
+ Last Updated on 23/11/2026 07:38:48 UTC
 <!--END_SECTION:waka-->
